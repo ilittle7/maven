@@ -1,7 +1,7 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "com.bybutter.router",
+    "group": "com.bybutter",
     "module": "router-plugin",
     "version": "1.0.0",
     "attributes": {
@@ -39,10 +39,10 @@
           "name": "router-plugin-1.0.0.jar",
           "url": "router-plugin-1.0.0.jar",
           "size": 18124,
-          "sha512": "483e2632aba7347675481b46ceb76b44ed42f365a948ad04f945977f8e31f0e82b425c9be3d8cf679ad2f48c9ba543066c92b8354e9f980aac56b0225222479a",
-          "sha256": "572e96655ab10a1f308883120104521df2f3ebd3e93d18514460f0dcd2c5eb09",
-          "sha1": "93d63337428dc67db5c8d98304822c6209810b90",
-          "md5": "01b2aca313ae8c0ee9da9d22e1b9d819"
+          "sha512": "89233c98b4a4255245f5f47107053eb456f38700d3ee35b05402755b6c9b2c777d8698ac78ffed6f5138a6969523fdc911ff7532d01d1486124f8183dd7a7cea",
+          "sha256": "cb95bf893c8ccfd2f45457ee4d77bf5ee6ae293ab96a62ba2df38544253f559e",
+          "sha1": "bbf6373cfe207a236f33da6002152b743c85accf",
+          "md5": "9ba566f7255ea6f7cdd9df827ee2af8c"
         }
       ]
     },
@@ -71,10 +71,10 @@
           "name": "router-plugin-1.0.0.jar",
           "url": "router-plugin-1.0.0.jar",
           "size": 18124,
-          "sha512": "483e2632aba7347675481b46ceb76b44ed42f365a948ad04f945977f8e31f0e82b425c9be3d8cf679ad2f48c9ba543066c92b8354e9f980aac56b0225222479a",
-          "sha256": "572e96655ab10a1f308883120104521df2f3ebd3e93d18514460f0dcd2c5eb09",
-          "sha1": "93d63337428dc67db5c8d98304822c6209810b90",
-          "md5": "01b2aca313ae8c0ee9da9d22e1b9d819"
+          "sha512": "89233c98b4a4255245f5f47107053eb456f38700d3ee35b05402755b6c9b2c777d8698ac78ffed6f5138a6969523fdc911ff7532d01d1486124f8183dd7a7cea",
+          "sha256": "cb95bf893c8ccfd2f45457ee4d77bf5ee6ae293ab96a62ba2df38544253f559e",
+          "sha1": "bbf6373cfe207a236f33da6002152b743c85accf",
+          "md5": "9ba566f7255ea6f7cdd9df827ee2af8c"
         }
       ]
     }

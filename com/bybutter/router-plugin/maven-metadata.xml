@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.bybutter.router</groupId>
+  <groupId>com.bybutter</groupId>
   <artifactId>router-plugin</artifactId>
   <versioning>
     <latest>1.0.0</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20240813080202</lastUpdated>
+    <lastUpdated>20240813083702</lastUpdated>
   </versioning>
 </metadata>
