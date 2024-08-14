@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.bybutter",
+    "module": "router-plugin",
+    "version": "1.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "router-plugin-1.1.0.jar",
+          "url": "router-plugin-1.1.0.jar",
+          "size": 18124,
+          "sha512": "2e3bdcb8b5d829cade67038f3b6d7136fe1d2741a6876d32a691edba069e73c28481ec9b85ed4cc712ee334ba5db788a705012fd93ffc3f8589d6251b2a5dbd7",
+          "sha256": "434e7b7a1012a8cb2194256c8d1799a0d3b52a16794165e4fe42655564e32147",
+          "sha1": "d8f3bbfc8a40645e6cd5274bc66ca5c69d4cf016",
+          "md5": "7c3af15188525ae44a2a486abd383e3d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "router-plugin-1.1.0.jar",
+          "url": "router-plugin-1.1.0.jar",
+          "size": 18124,
+          "sha512": "2e3bdcb8b5d829cade67038f3b6d7136fe1d2741a6876d32a691edba069e73c28481ec9b85ed4cc712ee334ba5db788a705012fd93ffc3f8589d6251b2a5dbd7",
+          "sha256": "434e7b7a1012a8cb2194256c8d1799a0d3b52a16794165e4fe42655564e32147",
+          "sha1": "d8f3bbfc8a40645e6cd5274bc66ca5c69d4cf016",
+          "md5": "7c3af15188525ae44a2a486abd383e3d"
+        }
+      ]
+    }
+  ]
+}
